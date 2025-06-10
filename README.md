@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BErukky
 - 👀 I’m interested in ... software engineering 
-- 🌱 I’m currently learning .. Block chain development/C# .NET
+- 🌱 I’m currently learning .. Block chain development/Rust
 - 💞️ I’m looking to collaborate on ... any one that is in too what am in to as a developer 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
